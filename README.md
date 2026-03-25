@@ -15,7 +15,7 @@ Computer Science @ **UFMT**
 
 ### About
 
-Graduating in Computer Science at Universidade Federal de Mato Grosso (UFMT). Passionate about technology in general — from low-level systems and Hackintosh builds to web applications and distributed architectures.
+Graduated at Computer Science at Universidade Federal de Mato Grosso (UFMT). Passionate about learning and building — I love coding personal projects to test new ideas, creating tools I actually use day-to-day, and automating my routine to make life easier.
 
 ---
 
@@ -23,6 +23,7 @@ Graduating in Computer Science at Universidade Federal de Mato Grosso (UFMT). Pa
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -31,7 +32,7 @@ Graduating in Computer Science at Universidade Federal de Mato Grosso (UFMT). Pa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>  
 </p>
 
 ---
