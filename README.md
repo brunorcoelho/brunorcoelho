@@ -15,7 +15,7 @@ Computer Science @ **UFMT**
 
 ### About
 
-Graduated at Computer Science at Universidade Federal de Mato Grosso (UFMT). Passionate about learning and building — I love coding personal projects to test new ideas, creating tools I actually use day-to-day, and automating my routine to make life easier.
+Computer Science major at Universidade Federal de Mato Grosso (UFMT). Passionate about learning and building — I love coding personal projects to test new ideas, creating tools I actually use day-to-day, and automating my routine to make life easier.
 
 ---
 
